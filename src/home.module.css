@@ -1,0 +1,27 @@
+header{
+    background-color: #f1f1f1;
+    padding: 20px;
+    text-align: center;
+    height: 70px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.116), 0 6px 20px 0 rgba(0, 0, 0, 0.089);
+}
+
+.navitem2{
+    position: absolute;
+    left: 80px;
+    text-decoration: none;
+font-size: 30px;
+font-weight: bold;
+color: slategray;
+}
+
+.navitem3{
+    position: absolute;
+    right: 80px;
+    text-decoration: none;
+}
+.navitem4{
+    position: absolute;
+    right: 20px;
+    text-decoration: none;
+}
